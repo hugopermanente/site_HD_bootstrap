@@ -67,7 +67,7 @@ body {
   padding-right: 20px !important;
 }
 .parallax-bg1 {
-  background: url("../img/lua-amarelo-gradiente.png") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
+  background: url("../img/fundo_amarelo_código.png") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
 }
 .parallax-bg2 {
   background: url("../img/parallax-bg2.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
@@ -79,7 +79,7 @@ body {
 /* Header */
 /*-----------------------------------------------------------------------------------*/
 #header {
-  background: url("../img/fundo-amarelo.png") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
+  background: url("../img/fundo_amarelo_código.png") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
   display: table;
   width: 100%;
 }
